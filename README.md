@@ -12,4 +12,4 @@ To get the data in csv format for current year simply go to [https://namantam1.g
   3. country -> default is indian
   4. format -> default is csv. Options are json, csv.
 
-To get the data json format user link [https://namantam1.github.io/holidays?format=json](https://namantam1.github.io/holidays=json).
+To get the data json format use link [https://namantam1.github.io/holidays?format=json](https://namantam1.github.io/holidays=json).
